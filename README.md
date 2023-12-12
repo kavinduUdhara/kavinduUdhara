@@ -9,7 +9,7 @@ Student with a passion for programming and technology. Experienced in Python pro
 Currently an undergraduate student at JIAT, with various online courses and hands-on projects to reinforce theoretical knowledge.
 
 ## Educational Background
-Undergraduate student at JIAT || **Licenses & Certifications** - ` Troubleshooting and Debugging Techniques` | `Foundations: Data, Data, Everywhere` | `Introduction to Git and GitHub` | `version control` | `Introduction to Databases` | `Using Python to Interact with the Operating System` | `Crash Course on Python` (All certifications are issued by Coursera) These certifications have helped me to gain hands-on experience in various areas of computer programming and systems.
+**Licenses & Certifications** - ` Troubleshooting and Debugging Techniques` | `Foundations: Data, Data, Everywhere` | `Introduction to Git and GitHub` | `version control` | `Introduction to Databases` | `Using Python to Interact with the Operating System` | `Crash Course on Python` (All certifications are issued by Coursera) These certifications have helped me to gain hands-on experience in various areas of computer programming and systems.
 
 ## Hobbies & Interests
 In my free time, I enjoy writing computer programs and exploring new technologies.
