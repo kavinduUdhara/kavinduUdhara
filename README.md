@@ -15,6 +15,9 @@ In my free time, I enjoy writing computer programs and exploring new technologie
 - Email: wmkavinduudhara@gmail.com
 - LinkedIn: https://www.linkedin.com/in/kavindu-udhara
 
-[![Kavindu's GitHub stats](https://github-readme-stats.vercel.app/api?username=KavinduUdhara)]
+![Kavindu's GitHub stats](https://github-readme-stats.vercel.app/api?username=KavinduUdhara&show_icons=true&theme=dark)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KavinduUdhara&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 last update - `03-21-2023`
